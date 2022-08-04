@@ -1,0 +1,1 @@
+/Users/mr.zhou/Desktop/Demos/aptos_learn/tools/target/debug/deploy: /Users/mr.zhou/Desktop/Demos/aptos_learn/tools/deploy/src/lib.rs /Users/mr.zhou/Desktop/Demos/aptos_learn/tools/deploy/src/main.rs /Users/mr.zhou/Desktop/Demos/aptos_learn/tools/first_transaction/src/lib.rs
